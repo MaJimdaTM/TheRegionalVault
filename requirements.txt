@@ -1,1 +1,6 @@
-
+torch>=2.0.0
+torchvision
+tqdm
+numpy
+matplotlib
+psutil
